@@ -1,4 +1,4 @@
-# Master_thesis
+# Feature extraction for timeseries classification
 
 
 
